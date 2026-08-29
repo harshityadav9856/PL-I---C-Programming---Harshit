@@ -6,11 +6,11 @@ Solution(1) -> Predefined Values
 # include <stdio.h>
 int main()
 {
-float radius = 5;
-float area;
+    float radius = 5;
+    float area;
 
-area = (3.14*radius*radius);
-printf("\n Area of Circle = %f ", area);
+    area = (3.14*radius*radius);
+    printf("\n Area of Circle = %f ", area);
 
-return 0;
+    return 0;
 }
