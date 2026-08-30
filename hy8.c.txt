@@ -6,13 +6,13 @@ Solution(2) -> User Define Values
 #include <stdio.h>
 int main()
 {
-      int a,b,temp;
+     int a,b,temp;
 
-      printf("\n Enter first number: ");
-      scanf("%d",&a);
+     printf("\n Enter first number: ");
+     scanf("%d",&a);
 
-      printf("\n Enter second number: ");
-      scanf("%d",&b);
+     printf("\n Enter second number: ");
+     scanf("%d",&b);
 
      temp = a;
      a = b;
