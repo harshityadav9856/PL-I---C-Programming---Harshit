@@ -8,9 +8,9 @@ Solution(1) -> Predefined Values
 int main()
 {
 
-        int a = 99;
-        int b = 16;
-        int c = 66;
+       int a = 99;
+       int b = 16;
+       int c = 66;
        float average;
 
        average = (a + b + c) / 3;
